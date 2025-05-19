@@ -6,6 +6,6 @@
   "description": "Adds an immersive way to get hints when searching for trader locations via purchasing a map from any trader you find.",
   "dependencies": [
     "denikson-BepInExPack_Valheim-5.4.2202",
-    "ValheimModding-Jotunn-2.23.2"
+    "ValheimModding-Jotunn-2.25.0"
   ]
 }

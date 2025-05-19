@@ -24,7 +24,7 @@ internal sealed class ShowMeTheGoods : BaseUnityPlugin
 
     internal static ShowMeTheGoods Instance;
     internal static ConfigFile ConfigFile;
-    internal static ConfigFileWatcher ConfigFileWatcher;
+    internal static Jotunn.Utils.ConfigFileWatcher ConfigFileWatcher;
 
     // Global settings
     internal const string GlobalSection = "Global";
