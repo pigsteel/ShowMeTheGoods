@@ -8,6 +8,14 @@
 			<th align="center">Notes</th>
 		</tr>
 		<tr>
+			<td align="center">0.2.4</td>
+			<td align="left">
+				<ul>
+					<li>Fixed incompatibility with newest Valheim version.</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
 			<td align="center">0.2.3</td>
 			<td align="left">
 				<ul>
