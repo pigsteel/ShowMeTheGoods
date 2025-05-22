@@ -105,7 +105,7 @@ internal sealed class TraderLocationManager
             
         }
         stopwatch.Stop();
-        Log.LogInfo($"Time to search for trader locations: {stopwatch.ElapsedMilliseconds} ms");
+        Log.LogInfo($"Time spent searching for trader locations: {stopwatch.ElapsedMilliseconds} ms");
 
         if (!ZNet.instance.IsServer())
         {
